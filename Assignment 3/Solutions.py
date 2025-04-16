@@ -55,4 +55,4 @@ is an example." Print the modified string.
 """
 original_string = "This is a string and it is an example."
 modified_string = original_string.replace("is", "was")
-print(modified_string)
+print(modified_string) 
